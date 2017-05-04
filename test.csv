@@ -1,0 +1,9 @@
+condition, target, sub, dub
+oxygen,tree,G1,T1
+oxygen,tree,G2,T1
+oxygen,tree,G2,T2
+water,car,G3,T1
+water,tree,GZ,T1
+water,tree,GZ,T2
+fire,car,GTD,T3
+oxygen,bomb,GYYS,T1
